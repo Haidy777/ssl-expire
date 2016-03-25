@@ -1,6 +1,6 @@
 {
   "name": "ssl-expire",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Simple script to check the expiry of a domain-name.",
   "main": "index.js",
   "repository": {
