@@ -1,0 +1,24 @@
+{
+  "name": "ssl-expire",
+  "version": "0.1.0",
+  "description": "Simple script to check the expiry of a domain-name.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haidy777/ssl-expire.git"
+  },
+  "keywords": [
+    "ssl",
+    "check",
+    "expiry"
+  ],
+  "author": "Haidy777",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Haidy777/ssl-expire/issues"
+  },
+  "homepage": "https://github.com/Haidy777/ssl-expire#readme",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
